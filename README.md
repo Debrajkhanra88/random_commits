@@ -1,1 +1,1 @@
-# random_commits
+# random_commits- Refactor init script
