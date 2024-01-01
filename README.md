@@ -12,3 +12,4 @@
 - Clarify instructions in README
 - Add test case for dry run
 - Fix broken link in README
+- Reorganize folder structure
