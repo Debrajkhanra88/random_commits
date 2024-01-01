@@ -7,3 +7,4 @@
 - Fix typo in comments
 - Add error handling for GPU query
 - Optimize bash logic
+- Update sample node script
