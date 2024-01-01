@@ -4,3 +4,4 @@
 - Add FHEVM integration notes
 - Improve CLI argument parsing
 - Document environment setup
+- Fix typo in comments
