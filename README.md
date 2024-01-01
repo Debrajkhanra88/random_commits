@@ -8,3 +8,4 @@
 - Add error handling for GPU query
 - Optimize bash logic
 - Update sample node script
+- Clean up redundant code
