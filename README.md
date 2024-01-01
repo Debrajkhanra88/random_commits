@@ -11,3 +11,4 @@
 - Clean up redundant code
 - Clarify instructions in README
 - Add test case for dry run
+- Fix broken link in README
