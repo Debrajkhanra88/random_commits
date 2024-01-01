@@ -9,3 +9,4 @@
 - Optimize bash logic
 - Update sample node script
 - Clean up redundant code
+- Clarify instructions in README
